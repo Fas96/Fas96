@@ -11,8 +11,3 @@ Interest
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&theme=algolia)](https://github.com/Fas96)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
-   - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          Fas96: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
