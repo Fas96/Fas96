@@ -11,4 +11,4 @@ Interest
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&theme=algolia)](https://github.com/Fas96)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
-![](https://raw.githubusercontent.com/Fas96/AlpoxDev/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Fas96/Fas96/output/github-contribution-grid-snake.svg)
