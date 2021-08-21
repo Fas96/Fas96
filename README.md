@@ -11,6 +11,4 @@ Interest
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&theme=algolia)](https://github.com/Fas96)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
-![github contribution grid snake animation](https://raw.Fas96.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+ 
