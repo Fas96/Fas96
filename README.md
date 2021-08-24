@@ -11,6 +11,6 @@ Interest
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&theme=algolia)](https://github.com/Fas96)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
-
+<br><hr/>
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
