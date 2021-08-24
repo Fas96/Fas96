@@ -12,8 +12,6 @@ Interest
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
 <br><hr/>
-[![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Network
 [![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&link=https://github.com/Fas96)](https://github.com/Fas96)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firibu-anyass-088182107
