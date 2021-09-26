@@ -2,7 +2,7 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFas96)
 
-“The secret of success is constancy of purpose.” – Benjamin Disraeli
+<i>“The secret of success is constancy of purpose.”</i> – <strong>Benjamin Disraeli</strong>
 
 ## Tech Stack
 
