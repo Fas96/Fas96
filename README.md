@@ -5,14 +5,12 @@
 <i>“The secret of success is constancy of purpose.”</i> – <strong>Benjamin Disraeli</strong>
 
 ## Tech Stack
+ ![javascript](https://img.shields.io/badge/Javascript-FFE400) ![typescript](https://img.shields.io/badge/Typescript-0054FF)
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
-![PHP](https://img.shields.io/badge/Php-Dev-blue)   ![javascript](https://img.shields.io/badge/Javascript-FFE400) ![typescript](https://img.shields.io/badge/Typescript-0054FF)
-
+![PHP](https://img.shields.io/badge/Php-Dev-blue)  
 [![Fas's github stats](https://github-readme-stats.vercel.app/api?username=Fas96&theme=algolia)](https://github.com/Fas96)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fas96&layout=compact&theme=algolia)
 
