@@ -2,8 +2,7 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFas96)
 
-<i>“The secret of success is constancy of purpose.”</i> – <strong>Benjamin Disraeli<br></strong>
-<i style="color:#296694 ">"He who knows not,and knows that he knows not,is a student; Teach him."</i>
+<i>“The secret of success is constancy of purpose.”</i> – <strong>Benjamin Disraeli<br></strong> 
 
 ## Tech Stack
  ![javascript](https://img.shields.io/badge/Javascript-FFE400) ![typescript](https://img.shields.io/badge/Typescript-0054FF)
