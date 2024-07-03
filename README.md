@@ -1,11 +1,6 @@
 # Fas
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFas96)
-
-<i>“The secret of success is constancy of purpose.”</i> – <strong>Benjamin Disraeli<br></strong> 
-### Currently Reading
-<i>Deep Work.</i> – <strong>Cal Newport<br></strong> 
-<i>Building and Delivering Microservices on AWS.</i> – <strong>	Amar Deep Singh<br></strong> 
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFas96) 
 ## Tech Stack
  ![javascript](https://img.shields.io/badge/Javascript-FFE400) ![typescript](https://img.shields.io/badge/Typescript-0054FF)
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
